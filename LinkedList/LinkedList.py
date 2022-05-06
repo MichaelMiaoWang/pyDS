@@ -51,7 +51,7 @@ class LinkedList:
             currentNode = currentNode.getNext()
         print("None")    
 
-# a easy test case
+# an easy test case
 if __name__ == '__main__':
     list = LinkedList(233)
     for x in range(20):
